@@ -22,7 +22,7 @@
             </p>
 
             <div class="about-features">
-                <span class="feature-pill">🤖 AI-Powered Detection</span>
+                <span class="feature-pill">🤖 AI-Powered Detection</span> //remove the icons
                 <span class="feature-pill">⛓️ BlockChain Verified</span>
                 <span class="feature-pill">🌍 Built for Everyone</span>
                 <span class="feature-pill">⚡ Results in Seconds</span>
